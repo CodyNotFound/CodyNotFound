@@ -17,8 +17,7 @@
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite%206.0-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS%20v3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0066CC?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS%20v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend
